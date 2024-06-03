@@ -26,3 +26,23 @@ This project is based on the Indian and Southeast Asian market.
 - Telecom+Churn+-+Group+Case+Study+-+Aayushi_Meenu.ipynb : The python file showing coding and data analysis
 - Data+Dictionary-+Telecom+Churn+Case+Study.xlsx : Data Dictionary
 
+
+| Activity                       | Month 1 | Month 2 | Month 3 | Month 4 | Month 5 |
+|--------------------------------|---------|---------|---------|---------|---------|
+| Data Collection                |  x      |         |         |         |         |
+| Initial Data Cleaning          |  x      |         |         |         |         |
+| Advanced Data Cleaning         |  x      |         |         |         |         |
+| Exploratory Data Analysis      |         |  x      |         |         |         |
+| Descriptive Statistics         |         |  x      |         |         |         |
+| Visualization                  |         |  x      |         |         |         |
+| Statistical Analysis           |         |         |  x      |         |         |
+| Machine Learning               |         |         |  x      |         |         |
+| Insight Derivation             |         |         |         |  x      |         |
+| Trend Analysis                 |         |         |         |  x      |         |
+| Validation                     |         |         |         |  x      |         |
+| Report Compilation             |         |         |         |         |  x      |
+| Drafting                       |         |         |         |         |  x      |
+| Review                         |         |         |         |         |  x      |
+| Revisions                      |         |         |         |         |  x      |
+| Finalization                   |         |         |         |         |  x      |
+
